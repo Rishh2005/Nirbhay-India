@@ -1,2 +1,2 @@
 # Nirbhay-India
-Safety App that will directly get connected through the hardware and maintains your safety.
+A safety app that will connect directly to the hardware and maintain your safety.
